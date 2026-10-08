@@ -1,0 +1,11 @@
+product_id,product_category_name,product_name_length,product_description_length,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+PROD-101,electronics,38,580,450.0,20,10,15
+PROD-102,audio_video,44,720,280.0,18,8,12
+PROD-103,computers_accessories,52,1100,1200.0,35,15,25
+PROD-104,home_appliances,31,450,3200.0,40,45,30
+PROD-105,sports_leisure,29,390,850.0,25,20,20
+PROD-106,health_beauty,35,620,190.0,12,18,6
+PROD-107,office_furniture,42,880,8400.0,65,75,60
+PROD-108,telephony,25,310,210.0,15,5,10
+PROD-109,books_technical,48,940,650.0,24,6,18
+PROD-110,automotive,37,510,1450.0,30,22,18

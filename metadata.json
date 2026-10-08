@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce ETL Pipeline Portfolio",
+  "description": "Production-grade End-to-End ETL Pipeline in Python, SQL, and MySQL for e-commerce data with incremental loading, data quality checks, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

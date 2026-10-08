@@ -1,0 +1,6 @@
+order_id,payment_sequential,payment_type,payment_installments,payment_value
+ORD-7016,1,credit_card,4,342.00
+ORD-7017,1,credit_card,2,101.90
+ORD-7018,1,boleto,1,90.70
+ORD-7019,1,voucher,1,65.00
+ORD-7020,1,credit_card,3,164.49

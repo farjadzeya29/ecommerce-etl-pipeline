@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Logs
+logs/*.log
+!logs/.gitkeep
+
+# Data quarantine outputs
+data/quarantine/*.csv
+!data/quarantine/.gitkeep
+
+# SQLite local testing DB (if run locally without Docker)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS generated
+.DS_Store
+Thumbs.db
